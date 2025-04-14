@@ -142,3 +142,4 @@ linux-dynamic-island/
 - [ ] Additional animations
 - [ ] System notifications integration
 - [ ] Keyboard shortcuts
+- [ ] Hyprland support
